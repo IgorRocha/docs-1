@@ -36,6 +36,7 @@ import alabaster
 extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.todo',
+    'sphinxcontrib.autoprogram',
     'alabaster',
 ]
 
